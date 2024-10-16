@@ -1,7 +1,7 @@
 {
   "name": "keeper_frontend",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "setup": "npm i && dfx canister create keeper_backend && dfx generate keeper_backend && dfx deploy",
